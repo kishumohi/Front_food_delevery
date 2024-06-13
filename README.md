@@ -16,8 +16,8 @@ Currently, two official plugins are available:
     - [06] - Done - Food Item List Component
     - [07] - Done - Footer
     - [08] - Done - Download Component
+    - [09] - Done - Make Website Responsive
 
-    - [09] - Make Website Responsive
     - [10] - Create Sign-in / Sign-Up component
     - [11] - Create Cart Page
     - [12] - Create Place order page
