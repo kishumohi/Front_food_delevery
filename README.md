@@ -17,7 +17,7 @@ Currently, two official plugins are available:
     - [07] - Done - Footer
     - [08] - Done - Download Component
     - [09] - Done - Make Website Responsive
-
-    - [10] - Create Sign-in / Sign-Up component
+    - [10] - Done - Create Sign-in / Sign-Up component
+    
     - [11] - Create Cart Page
     - [12] - Create Place order page
