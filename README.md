@@ -14,9 +14,9 @@ Currently, two official plugins are available:
     - [04] - Done - Header
     - [05] - Done - Menu List    
     - [06] - Done - Food Item List Component
+    - [07] - Done - Footer
+    - [08] - Done - Download Component
 
-    - [07] - Footer
-    - [08] - Download Component
     - [09] - Make Website Responsive
     - [10] - Create Sign-in / Sign-Up component
     - [11] - Create Cart Page
